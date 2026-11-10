@@ -29,5 +29,6 @@ Pleos Connect 환경에서 앱을 어떻게 구현할지 주요 개발 범위와
 
 7. 참고자료(선택 · 가산점 부여)
 앱 화면 시안, 시연 영상, GitHub 저장소 등 아이디어와 개발 결과물을 보여줄 수 있는 자료가 있다면 파일 또는 링크로 제출해 주세요
- 
-
+[개발관련](https://docs.google.com/document/d/118wVqMwQNtzuYLvIzHT3PGuMJpahQeUbsrJBTbR_Guc/edit?tab=t.0)
+[아이디어 뭉치기](https://docs.google.com/document/d/1r60zudzlV0Rg4t6QkVQesgZZjVxwTwaxOSL0PQepnKY/edit?tab=t.hsrt1ja3mxvd)
+[통계정리](https://docs.google.com/spreadsheets/d/1JDVZkEcHzK12YYo_r9_SBTqWCEnqwf36G2_JAiGvNM0/edit?gid=2069014705#gid=2069014705)
