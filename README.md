@@ -66,12 +66,14 @@
 
 ## 시스템 구성
 
-```text
-┌────────────────────────┐       ┌──────────────────────┐       ┌────────────────────────┐
-│ 차량용 앱              │       │ Firebase             │       │ 동승자 휴대폰 웹       │
-│ Kotlin · Compose       │◀─────▶│ Realtime Database    │◀─────▶│ HTML / JavaScript      │
-│ Pleos Connect SDK      │       │ Storage · Hosting    │       │ QR 접속 · 앱 설치 불필요│
-└────────────────────────┘       └──────────────────────┘       └────────────────────────┘
+```mermaid
+flowchart LR
+    A["차량용 앱<br/>Kotlin · Compose<br/>Pleos Connect SDK"]
+    B["Firebase<br/>Realtime Database<br/>Storage · Hosting"]
+    C["동승자 휴대폰 웹<br/>HTML / JavaScript<br/>QR 접속 · 앱 설치 불필요"]
+
+    A <--> B
+    B <--> C
 ```
 
 | 구성 요소 | 역할 |
